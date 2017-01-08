@@ -1,0 +1,30 @@
+
+User-Agent: *
+Disallow: 
+
+User-Agent: Googlebot
+Allow: /www.pawansinghchauhan.tk/
+
+User-Agent: Googlebot-Mobile
+Allow: /www.pawansinghchauhan.tk/
+
+User-Agent: Googlebot-Image
+Allow: /www.pawansinghchauhan.tk/
+
+User-Agent: Mediapartners-Google
+Allow: /www.pawansinghchauhan.tk/
+
+User-Agent: Adsbot-Google
+Allow: /www.pawansinghchauhan.tk/
+
+User-Agent: Slurp
+Allow: /www.pawansinghchauhan.tk/
+
+User-Agent: msnbot
+Allow: /www.pawansinghchauhan.tk/
+
+User-Agent: msnbot-media
+Allow: /www.pawansinghchauhan.tk/
+
+User-Agent: Teoma
+Allow: /www.pawansinghchauhan.tk/
