@@ -158,149 +158,217 @@
 	 
 	<!--SKILLS Starts-->
 	  <div id="skills" class="skills">
-	  <div class="container">
-	     <div class="skills-grids">
-			  <div class="skill-section text-center">
-				  <h2><span> </span>SKILLS<span> </span></h2>
-			  </div>
-					  <div class="services_grids">
-						  <div id="canvas">
-								<div class="skill-grids text-center">
-										<div class="col-md-2">	
-											<div class="skill-grid">
-												<div class="circle" id="circles-1"></div>									
-												 <h3>Android</h3>	
-											 </div>								  
-										</div>
-										<div class="col-md-2">	
-											<div class="skill-grid">
-												<div class="circle" id="circles-2"></div>									
-												 <h3>Java</h3>	
-											 </div>								  
-										</div>
-										<div class="col-md-2">	
-											<div class="skill-grid">
-												<div class="circle" id="circles-3"></div>									
-												 <h3>IOS</h3>	
-											 </div>								  
-										</div>
-										<div class="col-md-2">	
-											<div class="skill-grid">
-												<div class="circle" id="circles-4"></div>									
-												 <h3>PHP</h3>	
-											 </div>								  
-										</div>
-										<div class="col-md-2">	
-											<div class="skill-grid">
-												<div class="circle" id="circles-4"></div>									
-												 <h3>HTML 5</h3>	
-											 </div>								  
-										</div>
-										<div class="col-md-2">	
-											<div class="skill-grid">
-												<div class="circle" id="circles-4"></div>									
-												 <h3>CSS</h3>	
-											 </div>								  
-										</div>
-										<div class="clearfix"> </div>
-								</div>
+		  <div class="container">
+		     <div class="skills-grids">
+				  <div class="skill-section text-center">
+					  <h2><span> </span>SKILLS<span> </span></h2>
+				  </div>
+				  <div class="services_grids">
+					  <div id="canvas">
+							<div class="skill-grids text-center">
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-1"></div>
+											<img src="images/android.png" style="height: 80px; width: 80px" class="center-block img-responsive">
+											 <h3>Android</h3>	
+										 </div>								  
+									</div>
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-2"></div>
+											<img src="images/java.png" style="height: 80px; width: 80px" class="center-block img-responsive">
+											 <h3>Java</h3>	
+										 </div>								  
+									</div>
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-3"></div>
+											<img src="images/ios.png" style="height: 80px; width: 80px" class="center-block img-responsive">
+											 <h3>IOS</h3>	
+										 </div>								  
+									</div>
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-4"></div>
+											<img src="images/php.jpg" style="height: 80px; width: 80px" class="center-block img-responsive">	
+											<h3>PHP</h3>	
+										 </div>								  
+									</div>
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-4"></div>
+											<img src="images/html.png" style="height: 80px; width: 80px" class="center-block img-responsive">									
+											 <h3>HTML 5</h3>	
+										 </div>								  
+									</div>
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-4"></div>
+											<img src="images/css.png" style="height: 80px; width: 80px" class="center-block img-responsive">								
+											 <h3>CSS</h3>	
+										 </div>								  
+									</div>
+									<div class="clearfix"> </div>
+							</div>
 
-								<div class="skill-grids text-center">
-										<div class="col-md-2">	
-											<div class="skill-grid">
-												<div class="circle" id="circles-1"></div>									
-												 <h3>JS</h3>	
-											 </div>								  
-										</div>
-										<div class="col-md-2">	
-											<div class="skill-grid">
-												<div class="circle" id="circles-2"></div>									
-												 <h3>Jquery</h3>	
-											 </div>								  
-										</div>
-										<div class="col-md-2">	
-											<div class="skill-grid">
-												<div class="circle" id="circles-3"></div>									
-												 <h3>Angular</h3>	
-											 </div>								  
-										</div>
-										<div class="col-md-2">	
-											<div class="skill-grid">
-												<div class="circle" id="circles-4"></div>									
-												 <h3>Bootstrap</h3>	
-											 </div>								  
-										</div>
-										<div class="col-md-2">	
-											<div class="skill-grid">
-												<div class="circle" id="circles-4"></div>									
-												 <h3>C</h3>	
-											 </div>								  
-										</div>
-										<div class="col-md-2">	
-											<div class="skill-grid">
-												<div class="circle" id="circles-4"></div>									
-												 <h3>C++</h3>	
-											 </div>								  
-										</div>
-										<div class="clearfix"> </div>
-								</div>
+							<div class="skill-grids text-center">
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-1"></div>
+											<img src="images/javascript.png" style="height: 80px; width: 80px" class="center-block img-responsive">
+											 <h3>JS</h3>	
+										 </div>								  
+									</div>
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-2"></div>
+											<img src="images/jquery.png" style="height: 80px; width: 80px" class="center-block img-responsive">								
+											 <h3>Jquery</h3>	
+										 </div>								  
+									</div>
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-3"></div>
+											<img src="images/angular.png" style="height: 80px; width: 80px" class="center-block img-responsive">										
+											 <h3>Angular</h3>	
+										 </div>								  
+									</div>
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-4"></div>	
+											<img src="images/bootstrap.png" style="height: 80px; width: 80px" class="center-block img-responsive">								
+											 <h3>Bootstrap</h3>	
+										 </div>								  
+									</div>
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-4"></div>
+											<img src="images/c.png" style="height: 80px; width: 80px" class="center-block img-responsive">								
+											 <h3>C</h3>	
+										 </div>								  
+									</div>
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-4"></div>
+											<img src="images/cplusplus.png" style="height: 80px; width: 80px" class="center-block img-responsive">									
+											 <h3>C++</h3>	
+										 </div>								  
+									</div>
+									<div class="clearfix"> </div>
+							</div>
 
-								<div class="skill-grids text-center">
-										<div class="col-md-2">	
-											<div class="skill-grid">
-												<div class="circle" id="circles-1"></div>									
-												 <h3>SQL</h3>	
-											 </div>								  
-										</div>
-										<div class="col-md-2">	
-											<div class="skill-grid">
-												<div class="circle" id="circles-2"></div>									
-												 <h3>J2EE</h3>	
-											 </div>								  
-										</div>
-										<div class="col-md-2">	
-											<div class="skill-grid">
-												<div class="circle" id="circles-3"></div>									
-												 <h3>Laravel</h3>	
-											 </div>								  
-										</div>
-										<div class="col-md-2">	
-											<div class="skill-grid">
-												<div class="circle" id="circles-4"></div>									
-												 <h3>Codeigniter</h3>	
-											 </div>								  
-										</div>
-										<div class="clearfix"> </div>
-								</div>
+							<div class="skill-grids text-center">
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-1"></div>
+											<img src="images/sql.png" style="height: 80px; width: 80px" class="center-block img-responsive">								
+											 <h3>SQL</h3>	
+										 </div>								  
+									</div>
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-2"></div>
+											<img src="images/j2ee.jpg" style="height: 80px; width: 80px" class="center-block img-responsive">									
+											 <h3>J2EE</h3>	
+										 </div>								  
+									</div>
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-3"></div>
+											<img src="images/laravel.png" style="height: 80px; width: 80px" class="center-block img-responsive">								
+											 <h3>Laravel</h3>	
+										 </div>								  
+									</div>
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-4"></div>
+											<img src="images/codeigniter.png" style="height: 80px; width: 80px" class="center-block img-responsive">								
+											 <h3>Codeigniter</h3>	
+										 </div>								  
+									</div>
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-3"></div>
+											<img src="images/mysql.jpg" style="height: 80px; width: 80px" class="center-block img-responsive">								
+											 <h3>MySQL</h3>	
+										 </div>								  
+									</div>
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-4"></div>
+											<img src="images/oracle.png" style="height: 80px; width: 80px" class="center-block img-responsive">								
+											 <h3>Oracle</h3>	
+										 </div>								  
+									</div>
+									<div class="clearfix"> </div>
+							</div>
 
-						   </div>
-					  </div>
-					
-					 <!-- <script type="text/javascript" src="web/js/circles.js"></script>
-								 <script>
-									var colors = [
-											['#181115', '#EFEFEF'], ['#181115', '#EFEFEF'], ['#181115', '#EFEFEF'], ['#181115', '#EFEFEF']
-										];
-									for (var i = 1; i <= 5; i++) {
-										var child = document.getElementById('circles-' + i),
-											percentage = 50 + (i * 10);
-											
-										Circles.create({
-											id:         child.id,
-											percentage: percentage,
-											radius:     80,
-											width:      15,
-											number:   	percentage / 1,
-											text:       '%',
-											colors:     colors[i - 1]
-										});
-									}
-							
-					</script> -->
+							<div class="skill-grids text-center">
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-1"></div>
+											<img src="images/android_studio.png" style="height: 80px; width: 80px" class="center-block img-responsive">								
+											 <h3>Android Studio</h3>	
+										 </div>								  
+									</div>
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-2"></div>
+											<img src="images/eclipse.png" style="height: 80px; width: 80px" class="center-block img-responsive">									
+											 <h3>Eclipse</h3>	
+										 </div>								  
+									</div>
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-3"></div>
+											<img src="images/netbeans.png" style="height: 80px; width: 80px" class="center-block img-responsive">								
+											 <h3>Netbeans</h3>	
+										 </div>								  
+									</div>
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-4"></div>
+											<img src="images/dreamweaver.jpg" style="height: 80px; width: 80px" class="center-block img-responsive">								
+											 <h3>Dreamweaver</h3>	
+										 </div>								  
+									</div>
+									<div class="col-md-2">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-3"></div>
+											<img src="images/sublime_text.png" style="height: 80px; width: 80px" class="center-block img-responsive">							
+											<h3>Sublime</h3>	
+										 </div>								  
+									</div>
+									<div class="clearfix"> </div>
+							</div>
+					   </div>
+				  </div>
+						
+						 <!-- <script type="text/javascript" src="web/js/circles.js"></script>
+									 <script>
+										var colors = [
+												['#181115', '#EFEFEF'], ['#181115', '#EFEFEF'], ['#181115', '#EFEFEF'], ['#181115', '#EFEFEF']
+											];
+										for (var i = 1; i <= 5; i++) {
+											var child = document.getElementById('circles-' + i),
+												percentage = 50 + (i * 10);
+												
+											Circles.create({
+												id:         child.id,
+												percentage: percentage,
+												radius:     80,
+												width:      15,
+												number:   	percentage / 1,
+												text:       '%',
+												colors:     colors[i - 1]
+											});
+										}
+								
+						</script> -->
+				 </div>
 			 </div>
-		 </div>
-		   <a class="down scroll" href="#port"><span> </span></a>
-	  </div>
+			   <a class="down scroll" href="#port"><span> </span></a><br><br><br>
+		  </div>
 	  </div>
 	 <!--SKILLS Ends-->
      
@@ -340,7 +408,7 @@
 						 <a href="#"><img src="images/monitr1.png"></a>
 						  <p>Bardana Trade (Responsive)<br>
                           Codeigniter, MySQL, Bootstrap, PHP</p>
-						  <a class="rightarrow" href="http://www.bardanatrade.com/" target="_blank"><span> </span></a>
+						  <a class="rightarrow" href="bardana-trade.php"><span> </span></a>
 					  </div>
 					  <div class="portfolio-grid col-md-4">
 						  <a href="#"><img src="images/monitr2.png"></a>
